@@ -1,0 +1,65 @@
+{
+    "professores": [
+      {
+        "id": 1,
+        "nome": "Carlos Silva",
+        "cpf": "12345678900",
+        "senha": "1234"
+      },
+      {
+        "id": 2,
+        "nome": "Ana Souza",
+        "cpf": "98765432100",
+        "senha": "abcd"
+      }
+    ],
+    "disciplinas": [
+      {
+        "id": 1,
+        "nome": "Banco de Dados"
+      },
+      {
+        "id": 2,
+        "nome": "TCCI"
+      },
+      {
+        "id": 3,
+        "nome": "Sistemas Embarcados"
+      }
+    ],
+    "ofertas": [
+      {
+        "id": 1,
+        "professorId": 1,
+        "disciplinaId": 1,
+        "semestre": "2019.1",
+        "nota": 8.5,
+        "criticas": [
+          "Professor não explicava bem o conteúdo"
+        ],
+        "sugestoes": [
+          "Professor poderia disponibilizar lista valendo ponto extra",
+          "O Professor poderia ser mais acessível ao aluno"
+        ]
+      },
+      {
+        "id": 2,
+        "professorId": 2,
+        "disciplinaId": 1,
+        "semestre": "2019.1",
+        "nota": 7.5,
+        "criticas": [],
+        "sugestoes": []
+      },
+      {
+        "id": 3,
+        "professorId": 1,
+        "disciplinaId": 2,
+        "semestre": "2018.2",
+        "nota": 6.5,
+        "criticas": ["Conteúdo desatualizado"],
+        "sugestoes": ["Sugiro incluir estudos de caso recentes"]
+      }
+    ]
+  }
+  
