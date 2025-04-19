@@ -2,8 +2,8 @@
   "professores": [
     {
       "id": 1,
-      "nome": "Mariana Oliveira",
-      "cpf": "12345678901",
+      "nome": "José Weslles da Cruz Souza",
+      "cpf": "12345678900",
       "senha": "123"
     },
     {
@@ -539,6 +539,321 @@
         {"text": "Mostrar técnicas de otimização prática", "type": "sugestões"},
         {"text": "Dedicar mais tempo a bancos NoSQL", "type": "sugestões"},
         {"text": "Orientar projeto final desde o início", "type": "sugestões"}
+      ]
+    },
+    {
+      "id": 23,
+      "professorId": 2,
+      "disciplinaId": 1,
+      "semestre": "2020.2",
+      "nota": 4.5,
+      "comments": [
+        {"text": "Aulas muito teóricas", "type": "críticas"},
+        {"text": "Falta de exemplos práticos", "type": "críticas"},
+        {"text": "Material desatualizado", "type": "críticas"},
+        {"text": "Pouca interação com alunos", "type": "críticas"},
+        {"text": "Avaliações muito difíceis", "type": "críticas"},
+        {"text": "Falta de feedback nos trabalhos", "type": "críticas"},
+        {"text": "Incluir mais exercícios práticos", "type": "sugestões"},
+        {"text": "Atualizar o material didático", "type": "sugestões"},
+        {"text": "Criar um fórum para dúvidas", "type": "sugestões"},
+        {"text": "Dividir a turma em grupos menores", "type": "sugestões"},
+        {"text": "Fornecer gabaritos comentados", "type": "sugestões"},
+        {"text": "Usar mais estudos de caso", "type": "sugestões"}
+      ]
+    },
+    {
+      "id": 24,
+      "professorId": 2,
+      "disciplinaId": 6,
+      "semestre": "2020.2",
+      "nota": 3.9,
+      "comments": [
+        {"text": "Foco excessivo em sistemas antigos", "type": "críticas"},
+        {"text": "Pouca prática com linha de comando", "type": "críticas"},
+        {"text": "Laboratórios muito guiados", "type": "críticas"},
+        {"text": "Não aborda containers adequadamente", "type": "críticas"},
+        {"text": "Falta de comparação entre sistemas", "type": "críticas"},
+        {"text": "Pouca atenção a segurança em SOs", "type": "críticas"},
+        {"text": "Incluir análise de sistemas modernos", "type": "sugestões"},
+        {"text": "Mais exercícios avançados no terminal", "type": "sugestões"},
+        {"text": "Permitir mais exploração autônoma", "type": "sugestões"},
+        {"text": "Adicionar módulo sobre Docker/Kubernetes", "type": "sugestões"},
+        {"text": "Comparar Linux, Windows e macOS", "type": "sugestões"},
+        {"text": "Incluir tópicos de hardening de SO", "type": "sugestões"}
+      ]
+    },
+    {
+      "id": 25,
+      "professorId": 3,
+      "disciplinaId": 4,
+      "semestre": "2018.1",
+      "nota": 4.2,
+      "comments": [
+        {"text": "Abordagem muito matemática", "type": "críticas"},
+        {"text": "Pouca prática com frameworks atuais", "type": "críticas"},
+        {"text": "Falta de exemplos aplicados", "type": "críticas"},
+        {"text": "Não cobre aprendizagem profunda", "type": "críticas"},
+        {"text": "Pouca interação durante as aulas", "type": "críticas"},
+        {"text": "Material desatualizado em algumas áreas", "type": "críticas"},
+        {"text": "Equilibrar matemática e aplicação", "type": "sugestões"},
+        {"text": "Incluir TensorFlow/PyTorch", "type": "sugestões"},
+        {"text": "Mostrar casos de uso em indústrias", "type": "sugestões"},
+        {"text": "Adicionar módulo sobre deep learning", "type": "sugestões"},
+        {"text": "Promover mais discussões em classe", "type": "sugestões"},
+        {"text": "Atualizar material com avanços recentes", "type": "sugestões"}
+      ]
+    },
+    {
+      "id": 26,
+      "professorId": 3,
+      "disciplinaId": 11,
+      "semestre": "2018.1",
+      "nota": 4.7,
+      "comments": [
+        {"text": "Pressupõe conhecimento matemático avançado", "type": "críticas"},
+        {"text": "Pouca prática com datasets reais", "type": "críticas"},
+        {"text": "Não aborda ética em AI adequadamente", "type": "críticas"},
+        {"text": "Falta de integração com cloud", "type": "críticas"},
+        {"text": "Pouca variedade de algoritmos", "type": "críticas"},
+        {"text": "Não mostra deploy de modelos", "type": "críticas"},
+        {"text": "Revisar conceitos matemáticos necessários", "type": "sugestões"},
+        {"text": "Trabalhar com datasets de competições", "type": "sugestões"},
+        {"text": "Incluir módulo sobre ética e viés", "type": "sugestões"},
+        {"text": "Integrar com AWS SageMaker/GCP AI", "type": "sugestões"},
+        {"text": "Explorar mais famílias de algoritmos", "type": "sugestões"},
+        {"text": "Mostrar como colocar modelos em produção", "type": "sugestões"}
+      ]
+    },
+    {
+      "id": 27,
+      "professorId": 3,
+      "disciplinaId": 7,
+      "semestre": "2018.2",
+      "nota": 3.8,
+      "comments": [
+        {"text": "Ferramentas de desenvolvimento obsoletas", "type": "críticas"},
+        {"text": "Pouca ênfase em fundamentos teóricos", "type": "críticas"},
+        {"text": "Projetos muito semelhantes entre turmas", "type": "críticas"},
+        {"text": "Falta de critérios claros de avaliação", "type": "críticas"},
+        {"text": "Laboratório com equipamentos limitados", "type": "críticas"},
+        {"text": "Não aborda tópicos modernos da área", "type": "críticas"},
+        {"text": "Atualizar ferramentas para versões recentes", "type": "sugestões"},
+        {"text": "Dedicar mais tempo para fundamentos", "type": "sugestões"},
+        {"text": "Variar temas de projetos entre semestres", "type": "sugestões"},
+        {"text": "Disponibilizar rubricas de avaliação", "type": "sugestões"},
+        {"text": "Melhorar infraestrutura do laboratório", "type": "sugestões"},
+        {"text": "Incluir tópicos como shaders e ray tracing", "type": "sugestões"}
+      ]
+    },
+    {
+      "id": 28,
+      "professorId": 3,
+      "disciplinaId": 14,
+      "semestre": "2018.2",
+      "nota": 4.3,
+      "comments": [
+        {"text": "Cobre apenas desenvolvimento nativo", "type": "críticas"},
+        {"text": "Pouca atenção a híbridos como Flutter", "type": "críticas"},
+        {"text": "Projetos muito básicos", "type": "críticas"},
+        {"text": "Não aborda publicação nas stores", "type": "críticas"},
+        {"text": "Falta de exemplos de integração com APIs", "type": "críticas"},
+        {"text": "Pouca orientação sobre UX mobile", "type": "críticas"},
+        {"text": "Incluir frameworks multiplataforma", "type": "sugestões"},
+        {"text": "Adicionar módulo sobre React Native", "type": "sugestões"},
+        {"text": "Desafios mais complexos nos projetos", "type": "sugestões"},
+        {"text": "Mostrar processo de publicação", "type": "sugestões"},
+        {"text": "Integrar com APIs REST em projetos", "type": "sugestões"},
+        {"text": "Incluir princípios de design mobile", "type": "sugestões"}
+      ]
+    },
+    {
+      "id": 29,
+      "professorId": 3,
+      "disciplinaId": 2,
+      "semestre": "2019.1",
+      "nota": 4.0,
+      "comments": [
+        {"text": "Dificuldade progressiva muito acentuada", "type": "críticas"},
+        {"text": "Poucos exercícios resolvidos em aula", "type": "críticas"},
+        {"text": "Material complementar escasso", "type": "críticas"},
+        {"text": "Falta de exemplos de aplicação real", "type": "críticas"},
+        {"text": "Pouca variedade nos exercícios", "type": "críticas"},
+        {"text": "Não aborda todas as estruturas prometidas", "type": "críticas"},
+        {"text": "Suavizar a curva de dificuldade", "type": "sugestões"},
+        {"text": "Resolver mais exercícios passo a passo", "type": "sugestões"},
+        {"text": "Indicar livros e vídeos complementares", "type": "sugestões"},
+        {"text": "Mostrar aplicações em sistemas reais", "type": "sugestões"},
+        {"text": "Diversificar tipos de exercícios", "type": "sugestões"},
+        {"text": "Cobrir todas as estruturas no syllabus", "type": "sugestões"}
+      ]
+    },
+    {
+      "id": 30,
+      "professorId": 3,
+      "disciplinaId": 9,
+      "semestre": "2019.1",
+      "nota": 4.5,
+      "comments": [
+        {"text": "Foco excessivo em modelos teóricos", "type": "críticas"},
+        {"text": "Pouca integração com linguagens modernas", "type": "críticas"},
+        {"text": "Exercícios descontextualizados", "type": "críticas"},
+        {"text": "Falta de exemplos de otimização", "type": "críticas"},
+        {"text": "Não aborda NoSQL adequadamente", "type": "críticas"},
+        {"text": "Pouca orientação para projetos reais", "type": "críticas"},
+        {"text": "Balancear teoria e implementação", "type": "sugestões"},
+        {"text": "Incluir exemplos em Python/Node.js", "type": "sugestões"},
+        {"text": "Contextualizar exercícios com casos reais", "type": "sugestões"},
+        {"text": "Mostrar técnicas de otimização prática", "type": "sugestões"},
+        {"text": "Dedicar mais tempo a bancos NoSQL", "type": "sugestões"},
+        {"text": "Orientar projeto final desde o início", "type": "sugestões"}
+      ]
+    },
+    {
+      "id": 31,
+      "professorId": 3,
+      "disciplinaId": 5,
+      "semestre": "2019.2",
+      "nota": 3.7,
+      "comments": [
+        {"text": "Metodologias ágeis pouco práticas", "type": "críticas"},
+        {"text": "Documentação excessiva nos projetos", "type": "críticas"},
+        {"text": "Poucos exemplos de indústria", "type": "críticas"},
+        {"text": "Não aborda DevOps adequadamente", "type": "críticas"},
+        {"text": "Ferramentas ultrapassadas", "type": "críticas"},
+        {"text": "Pouca interação em equipe simulada", "type": "críticas"},
+        {"text": "Simular sprints reais com clientes", "type": "sugestões"},
+        {"text": "Balancear documentação e código", "type": "sugestões"},
+        {"text": "Trazer cases de empresas locais", "type": "sugestões"},
+        {"text": "Incluir CI/CD nos projetos", "type": "sugestões"},
+        {"text": "Usar Jira/Trello modernos", "type": "sugestões"},
+        {"text": "Promover mais dinâmicas de equipe", "type": "sugestões"}
+      ]
+    },
+    {
+      "id": 32,
+      "professorId": 3,
+      "disciplinaId": 12,
+      "semestre": "2019.2",
+      "nota": 4.1,
+      "comments": [
+        {"text": "Tecnologias ensinadas estão defasadas", "type": "críticas"},
+        {"text": "Pouca atenção a acessibilidade", "type": "críticas"},
+        {"text": "Projetos muito similares entre alunos", "type": "críticas"},
+        {"text": "Não aborda desenvolvimento mobile-first", "type": "críticas"},
+        {"text": "Falta de integração com back-end", "type": "críticas"},
+        {"text": "Pouca orientação sobre boas práticas", "type": "críticas"},
+        {"text": "Atualizar para React/Vue.js", "type": "sugestões"},
+        {"text": "Incluir módulo sobre acessibilidade web", "type": "sugestões"},
+        {"text": "Permitir mais liberdade nos projetos", "type": "sugestões"},
+        {"text": "Enfatizar design responsivo", "type": "sugestões"},
+        {"text": "Integrar com APIs REST básicas", "type": "sugestões"},
+        {"text": "Ensinar padrões como BEM e Atomic Design", "type": "sugestões"}
+      ]
+    },
+    {
+      "id": 33,
+      "professorId": 3,
+      "disciplinaId": 3,
+      "semestre": "2020.1",
+      "nota": 4.4,
+      "comments": [
+        {"text": "Laboratório com equipamentos antigos", "type": "críticas"},
+        {"text": "Pouca prática com configuração real", "type": "críticas"},
+        {"text": "Conteúdo muito denso em pouco tempo", "type": "críticas"},
+        {"text": "Falta de material complementar", "type": "críticas"},
+        {"text": "Avaliações não refletem o conteúdo", "type": "críticas"},
+        {"text": "Pouca interação durante as aulas", "type": "críticas"},
+        {"text": "Atualizar equipamentos do laboratório", "type": "sugestões"},
+        {"text": "Incluir visitas técnicas", "type": "sugestões"},
+        {"text": "Dividir o conteúdo em dois módulos", "type": "sugestões"},
+        {"text": "Disponibilizar vídeos tutoriais", "type": "sugestões"},
+        {"text": "Alinhar melhor provas com conteúdo", "type": "sugestões"},
+        {"text": "Promover mais discussões em aula", "type": "sugestões"}
+      ]
+    },
+    {
+      "id": 34,
+      "professorId": 3,
+      "disciplinaId": 8,
+      "semestre": "2020.1",
+      "nota": 4.6,
+      "comments": [
+        {"text": "Foco excessivo em teoria", "type": "críticas"},
+        {"text": "Poucos exemplos de ataques reais", "type": "críticas"},
+        {"text": "Ferramentas usadas estão desatualizadas", "type": "críticas"},
+        {"text": "Pouca orientação para certificações", "type": "críticas"},
+        {"text": "Laboratório com restrições de acesso", "type": "críticas"},
+        {"text": "Falta de estudos de caso atuais", "type": "críticas"},
+        {"text": "Balancear teoria e prática", "type": "sugestões"},
+        {"text": "Mostrar casos recentes de invasões", "type": "sugestões"},
+        {"text": "Atualizar ferramentas de segurança", "type": "sugestões"},
+        {"text": "Incluir dicas para exames de certificação", "type": "sugestões"},
+        {"text": "Ampliar horários de laboratório", "type": "sugestões"},
+        {"text": "Discutir vazamentos de dados recentes", "type": "sugestões"}
+      ]
+    },
+    {
+      "id": 35,
+      "professorId": 3,
+      "disciplinaId": 10,
+      "semestre": "2020.2",
+      "nota": 4.2,
+      "comments": [
+        {"text": "Kits de desenvolvimento limitados", "type": "críticas"},
+        {"text": "Pouca integração com cloud", "type": "críticas"},
+        {"text": "Projetos muito similares", "type": "críticas"},
+        {"text": "Não aborda segurança em IoT", "type": "críticas"},
+        {"text": "Falta de casos reais de implementação", "type": "críticas"},
+        {"text": "Pouca atenção a protocolos modernos", "type": "críticas"},
+        {"text": "Ampliar variedade de hardware", "type": "sugestões"},
+        {"text": "Integrar com AWS IoT/Google Cloud", "type": "sugestões"},
+        {"text": "Permitir temas livres nos projetos", "type": "sugestões"},
+        {"text": "Incluir módulo sobre segurança", "type": "sugestões"},
+        {"text": "Mostrar implantações em cidades inteligentes", "type": "sugestões"},
+        {"text": "Cobrir MQTT e CoAP profundamente", "type": "sugestões"}
+      ]
+    },
+    {
+      "id": 36,
+      "professorId": 3,
+      "disciplinaId": 15,
+      "semestre": "2020.2",
+      "nota": 4.8,
+      "comments": [
+        {"text": "Foco apenas em um provedor", "type": "críticas"},
+        {"text": "Pouca prática com multi-cloud", "type": "críticas"},
+        {"text": "Não aborda custos adequadamente", "type": "críticas"},
+        {"text": "Ferramentas desatualizadas", "type": "críticas"},
+        {"text": "Pouca atenção a serverless", "type": "críticas"},
+        {"text": "Laboratórios muito guiados", "type": "críticas"},
+        {"text": "Comparar AWS, Azure e GCP", "type": "sugestões"},
+        {"text": "Incluir cenários híbridos", "type": "sugestões"},
+        {"text": "Adicionar módulo sobre otimização de custos", "type": "sugestões"},
+        {"text": "Atualizar para versões recentes", "type": "sugestões"},
+        {"text": "Incluir AWS Lambda/Azure Functions", "type": "sugestões"},
+        {"text": "Permitir mais exploração autônoma", "type": "sugestões"}
+      ]
+    },
+    {
+      "id": 37,
+      "professorId": 4,
+      "disciplinaId": 5,
+      "semestre": "2018.1",
+      "nota": 3.9,
+      "comments": [
+        {"text": "Metodologias ágeis pouco práticas", "type": "críticas"},
+        {"text": "Documentação excessiva nos projetos", "type": "críticas"},
+        {"text": "Poucos exemplos de indústria", "type": "críticas"},
+        {"text": "Não aborda DevOps adequadamente", "type": "críticas"},
+        {"text": "Ferramentas ultrapassadas", "type": "críticas"},
+        {"text": "Pouca interação em equipe simulada", "type": "críticas"},
+        {"text": "Simular sprints reais com clientes", "type": "sugestões"},
+        {"text": "Balancear documentação e código", "type": "sugestões"},
+        {"text": "Trazer cases de empresas locais", "type": "sugestões"},
+        {"text": "Incluir CI/CD nos projetos", "type": "sugestões"},
+        {"text": "Usar Jira/Trello modernos", "type": "sugestões"},
+        {"text": "Promover mais dinâmicas de equipe", "type": "sugestões"}
       ]
     }
   ]
