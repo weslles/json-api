@@ -69,14 +69,14 @@
     {"id": 5, "nome": "Engenharia de Software"},
     {"id": 6, "nome": "Sistemas Operacionais"},
     {"id": 7, "nome": "Computação Gráfica"},
-    {"id": 8, "nome": "Segurança da Informação"},
-    {"id": 9, "nome": "Banco de Dados Avançado"},
-    {"id": 10, "nome": "Internet das Coisas"},
+    {"id": 8, "nome": "Cálculo Numérico"},
+    {"id": 9, "nome": "Banco de Dados"},
+    {"id": 10, "nome": "Cálculo Diferencial e Integral 1"},
     {"id": 11, "nome": "Machine Learning"},
-    {"id": 12, "nome": "Desenvolvimento Web"},
+    {"id": 12, "nome": "Algebra Linear"},
     {"id": 13, "nome": "Arquitetura de Computadores"},
-    {"id": 14, "nome": "Programação Mobile"},
-    {"id": 15, "nome": "Cloud Computing"}
+    {"id": 14, "nome": "Física Teórica 2"},
+    {"id": 15, "nome": "Análise de Sinais e Sistemas"}
   ],
   "ofertas": [
     {
