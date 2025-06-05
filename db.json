@@ -2,19 +2,19 @@
   "professores": [
     {
       "id": 1,
-      "nome": "José Weslles da Cruz Souza",
+      "nome": "José Weslles da Cruz",
       "cpf": "12345678900",
       "senha": "123"
     },
     {
       "id": 2,
-      "nome": "Ricardo Santos",
+      "nome": "Juscelino Freitas",
       "cpf": "98765432109",
       "senha": "senha123"
     },
     {
       "id": 3,
-      "nome": "Fernanda Costa",
+      "nome": "Ana Maria Pereira",
       "cpf": "45678912304",
       "senha": "senha123"
     },
@@ -854,6 +854,818 @@
         {"text": "Incluir CI/CD nos projetos", "type": "sugestões"},
         {"text": "Usar Jira/Trello modernos", "type": "sugestões"},
         {"text": "Promover mais dinâmicas de equipe", "type": "sugestões"}
+      ]
+    },
+    {
+      "id": 38,
+      "professorId": 4,
+      "disciplinaId": 11,
+      "semestre": "2023.1",
+      "nota": 4.3,
+      "comments": [
+        {
+          "text": "Material pouco didático",
+          "type": "críticas"
+        },
+        {
+          "text": "Avaliou conteúdos não abordados",
+          "type": "críticas"
+        },
+        {
+          "text": "Pouca interação em sala",
+          "type": "críticas"
+        },
+        {
+          "text": "Incluir estudos de caso reais",
+          "type": "sugestões"
+        },
+        {
+          "text": "Adicionar vídeos explicativos",
+          "type": "sugestões"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "professorId": 4,
+      "disciplinaId": 8,
+      "semestre": "2023.1",
+      "nota": 3.8,
+      "comments": [
+        {
+          "text": "Foco excessivo na teoria",
+          "type": "críticas"
+        },
+        {
+          "text": "Pouca interação em sala",
+          "type": "críticas"
+        },
+        {
+          "text": "Aulas mais interativas",
+          "type": "sugestões"
+        },
+        {
+          "text": "Utilizar quizzes online",
+          "type": "sugestões"
+        },
+        {
+          "text": "Incluir estudos de caso reais",
+          "type": "sugestões"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "professorId": 4,
+      "disciplinaId": 15,
+      "semestre": "2022.2",
+      "nota": 2.4,
+      "comments": [
+        {
+          "text": "Avaliou conteúdos não abordados",
+          "type": "críticas"
+        },
+        {
+          "text": "Adicionar vídeos explicativos",
+          "type": "sugestões"
+        },
+        {
+          "text": "Utilizar quizzes online",
+          "type": "sugestões"
+        },
+        {
+          "text": "Mais exemplos práticos",
+          "type": "sugestões"
+        },
+        {
+          "text": "Incluir estudos de caso reais",
+          "type": "sugestões"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "professorId": 4,
+      "disciplinaId": 7,
+      "semestre": "2022.1",
+      "nota": 5.0,
+      "comments": [
+        {
+          "text": "Foco excessivo na teoria",
+          "type": "críticas"
+        },
+        {
+          "text": "Material pouco didático",
+          "type": "críticas"
+        },
+        {
+          "text": "Aulas mais interativas",
+          "type": "sugestões"
+        },
+        {
+          "text": "Incluir estudos de caso reais",
+          "type": "sugestões"
+        },
+        {
+          "text": "Utilizar quizzes online",
+          "type": "sugestões"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "professorId": 5,
+      "disciplinaId": 11,
+      "semestre": "2020.2",
+      "nota": 4.0,
+      "comments": [
+        {
+          "text": "Faltou clareza nas explicações",
+          "type": "críticas"
+        },
+        {
+          "text": "Pouca interação em sala",
+          "type": "críticas"
+        },
+        {
+          "text": "Incluir estudos de caso reais",
+          "type": "sugestões"
+        },
+        {
+          "text": "Aulas mais interativas",
+          "type": "sugestões"
+        },
+        {
+          "text": "Adicionar vídeos explicativos",
+          "type": "sugestões"
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "professorId": 5,
+      "disciplinaId": 13,
+      "semestre": "2021.1",
+      "nota": 2.8,
+      "comments": [
+        {
+          "text": "Foco excessivo na teoria",
+          "type": "críticas"
+        },
+        {
+          "text": "Faltou clareza nas explicações",
+          "type": "críticas"
+        },
+        {
+          "text": "Pouca interação em sala",
+          "type": "críticas"
+        },
+        {
+          "text": "Utilizar quizzes online",
+          "type": "sugestões"
+        },
+        {
+          "text": "Mais exemplos práticos",
+          "type": "sugestões"
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "professorId": 5,
+      "disciplinaId": 14,
+      "semestre": "2021.1",
+      "nota": 2.6,
+      "comments": [
+        {
+          "text": "Foco excessivo na teoria",
+          "type": "críticas"
+        },
+        {
+          "text": "Avaliou conteúdos não abordados",
+          "type": "críticas"
+        },
+        {
+          "text": "Material pouco didático",
+          "type": "críticas"
+        },
+        {
+          "text": "Mais exemplos práticos",
+          "type": "sugestões"
+        },
+        {
+          "text": "Incluir estudos de caso reais",
+          "type": "sugestões"
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "professorId": 5,
+      "disciplinaId": 10,
+      "semestre": "2020.2",
+      "nota": 4.7,
+      "comments": [
+        {
+          "text": "Pouca interação em sala",
+          "type": "críticas"
+        },
+        {
+          "text": "Faltou clareza nas explicações",
+          "type": "críticas"
+        },
+        {
+          "text": "Foco excessivo na teoria",
+          "type": "críticas"
+        },
+        {
+          "text": "Mais exemplos práticos",
+          "type": "sugestões"
+        },
+        {
+          "text": "Incluir estudos de caso reais",
+          "type": "sugestões"
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "professorId": 6,
+      "disciplinaId": 1,
+      "semestre": "2021.2",
+      "nota": 4.7,
+      "comments": [
+        {
+          "text": "Utilizar quizzes online",
+          "type": "sugestões"
+        },
+        {
+          "text": "Adicionar vídeos explicativos",
+          "type": "sugestões"
+        },
+        {
+          "text": "Mais exemplos práticos",
+          "type": "sugestões"
+        },
+        {
+          "text": "Aulas mais interativas",
+          "type": "sugestões"
+        },
+        {
+          "text": "Incluir estudos de caso reais",
+          "type": "sugestões"
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "professorId": 6,
+      "disciplinaId": 10,
+      "semestre": "2020.2",
+      "nota": 3.2,
+      "comments": [
+        {
+          "text": "Foco excessivo na teoria",
+          "type": "críticas"
+        },
+        {
+          "text": "Pouca interação em sala",
+          "type": "críticas"
+        },
+        {
+          "text": "Avaliou conteúdos não abordados",
+          "type": "críticas"
+        },
+        {
+          "text": "Aulas mais interativas",
+          "type": "sugestões"
+        },
+        {
+          "text": "Incluir estudos de caso reais",
+          "type": "sugestões"
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "professorId": 6,
+      "disciplinaId": 8,
+      "semestre": "2021.2",
+      "nota": 2.6,
+      "comments": [
+        {
+          "text": "Faltou clareza nas explicações",
+          "type": "críticas"
+        },
+        {
+          "text": "Mais exemplos práticos",
+          "type": "sugestões"
+        },
+        {
+          "text": "Adicionar vídeos explicativos",
+          "type": "sugestões"
+        },
+        {
+          "text": "Utilizar quizzes online",
+          "type": "sugestões"
+        },
+        {
+          "text": "Aulas mais interativas",
+          "type": "sugestões"
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "professorId": 6,
+      "disciplinaId": 13,
+      "semestre": "2023.1",
+      "nota": 3.9,
+      "comments": [
+        {
+          "text": "Material pouco didático",
+          "type": "críticas"
+        },
+        {
+          "text": "Foco excessivo na teoria",
+          "type": "críticas"
+        },
+        {
+          "text": "Faltou clareza nas explicações",
+          "type": "críticas"
+        },
+        {
+          "text": "Aulas mais interativas",
+          "type": "sugestões"
+        },
+        {
+          "text": "Utilizar quizzes online",
+          "type": "sugestões"
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "professorId": 7,
+      "disciplinaId": 6,
+      "semestre": "2021.2",
+      "nota": 4.3,
+      "comments": [
+        {
+          "text": "Mais exemplos práticos",
+          "type": "sugestões"
+        },
+        {
+          "text": "Incluir estudos de caso reais",
+          "type": "sugestões"
+        },
+        {
+          "text": "Utilizar quizzes online",
+          "type": "sugestões"
+        },
+        {
+          "text": "Aulas mais interativas",
+          "type": "sugestões"
+        },
+        {
+          "text": "Adicionar vídeos explicativos",
+          "type": "sugestões"
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "professorId": 7,
+      "disciplinaId": 13,
+      "semestre": "2020.2",
+      "nota": 3.7,
+      "comments": [
+        {
+          "text": "Avaliou conteúdos não abordados",
+          "type": "críticas"
+        },
+        {
+          "text": "Material pouco didático",
+          "type": "críticas"
+        },
+        {
+          "text": "Incluir estudos de caso reais",
+          "type": "sugestões"
+        },
+        {
+          "text": "Adicionar vídeos explicativos",
+          "type": "sugestões"
+        },
+        {
+          "text": "Mais exemplos práticos",
+          "type": "sugestões"
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "professorId": 7,
+      "disciplinaId": 12,
+      "semestre": "2020.2",
+      "nota": 4.3,
+      "comments": [
+        {
+          "text": "Material pouco didático",
+          "type": "críticas"
+        },
+        {
+          "text": "Pouca interação em sala",
+          "type": "críticas"
+        },
+        {
+          "text": "Foco excessivo na teoria",
+          "type": "críticas"
+        },
+        {
+          "text": "Utilizar quizzes online",
+          "type": "sugestões"
+        },
+        {
+          "text": "Aulas mais interativas",
+          "type": "sugestões"
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "professorId": 7,
+      "disciplinaId": 3,
+      "semestre": "2022.2",
+      "nota": 4.2,
+      "comments": [
+        {
+          "text": "Avaliou conteúdos não abordados",
+          "type": "críticas"
+        },
+        {
+          "text": "Material pouco didático",
+          "type": "críticas"
+        },
+        {
+          "text": "Foco excessivo na teoria",
+          "type": "críticas"
+        },
+        {
+          "text": "Mais exemplos práticos",
+          "type": "sugestões"
+        },
+        {
+          "text": "Incluir estudos de caso reais",
+          "type": "sugestões"
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "professorId": 8,
+      "disciplinaId": 11,
+      "semestre": "2022.1",
+      "nota": 4.6,
+      "comments": [
+        {
+          "text": "Avaliou conteúdos não abordados",
+          "type": "críticas"
+        },
+        {
+          "text": "Adicionar vídeos explicativos",
+          "type": "sugestões"
+        },
+        {
+          "text": "Aulas mais interativas",
+          "type": "sugestões"
+        },
+        {
+          "text": "Utilizar quizzes online",
+          "type": "sugestões"
+        },
+        {
+          "text": "Incluir estudos de caso reais",
+          "type": "sugestões"
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "professorId": 8,
+      "disciplinaId": 7,
+      "semestre": "2022.1",
+      "nota": 2.2,
+      "comments": [
+        {
+          "text": "Material pouco didático",
+          "type": "críticas"
+        },
+        {
+          "text": "Avaliou conteúdos não abordados",
+          "type": "críticas"
+        },
+        {
+          "text": "Aulas mais interativas",
+          "type": "sugestões"
+        },
+        {
+          "text": "Mais exemplos práticos",
+          "type": "sugestões"
+        },
+        {
+          "text": "Adicionar vídeos explicativos",
+          "type": "sugestões"
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "professorId": 8,
+      "disciplinaId": 14,
+      "semestre": "2020.2",
+      "nota": 4.6,
+      "comments": [
+        {
+          "text": "Faltou clareza nas explicações",
+          "type": "críticas"
+        },
+        {
+          "text": "Utilizar quizzes online",
+          "type": "sugestões"
+        },
+        {
+          "text": "Adicionar vídeos explicativos",
+          "type": "sugestões"
+        },
+        {
+          "text": "Incluir estudos de caso reais",
+          "type": "sugestões"
+        },
+        {
+          "text": "Mais exemplos práticos",
+          "type": "sugestões"
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "professorId": 8,
+      "disciplinaId": 1,
+      "semestre": "2023.1",
+      "nota": 4.3,
+      "comments": [
+        {
+          "text": "Utilizar quizzes online",
+          "type": "sugestões"
+        },
+        {
+          "text": "Mais exemplos práticos",
+          "type": "sugestões"
+        },
+        {
+          "text": "Incluir estudos de caso reais",
+          "type": "sugestões"
+        },
+        {
+          "text": "Aulas mais interativas",
+          "type": "sugestões"
+        },
+        {
+          "text": "Adicionar vídeos explicativos",
+          "type": "sugestões"
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "professorId": 9,
+      "disciplinaId": 5,
+      "semestre": "2020.2",
+      "nota": 3.9,
+      "comments": [
+        {
+          "text": "Avaliou conteúdos não abordados",
+          "type": "críticas"
+        },
+        {
+          "text": "Pouca interação em sala",
+          "type": "críticas"
+        },
+        {
+          "text": "Faltou clareza nas explicações",
+          "type": "críticas"
+        },
+        {
+          "text": "Incluir estudos de caso reais",
+          "type": "sugestões"
+        },
+        {
+          "text": "Adicionar vídeos explicativos",
+          "type": "sugestões"
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "professorId": 9,
+      "disciplinaId": 4,
+      "semestre": "2020.2",
+      "nota": 4.1,
+      "comments": [
+        {
+          "text": "Foco excessivo na teoria",
+          "type": "críticas"
+        },
+        {
+          "text": "Mais exemplos práticos",
+          "type": "sugestões"
+        },
+        {
+          "text": "Adicionar vídeos explicativos",
+          "type": "sugestões"
+        },
+        {
+          "text": "Utilizar quizzes online",
+          "type": "sugestões"
+        },
+        {
+          "text": "Incluir estudos de caso reais",
+          "type": "sugestões"
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "professorId": 9,
+      "disciplinaId": 14,
+      "semestre": "2022.2",
+      "nota": 4.3,
+      "comments": [
+        {
+          "text": "Pouca interação em sala",
+          "type": "críticas"
+        },
+        {
+          "text": "Foco excessivo na teoria",
+          "type": "críticas"
+        },
+        {
+          "text": "Material pouco didático",
+          "type": "críticas"
+        },
+        {
+          "text": "Utilizar quizzes online",
+          "type": "sugestões"
+        },
+        {
+          "text": "Adicionar vídeos explicativos",
+          "type": "sugestões"
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "professorId": 9,
+      "disciplinaId": 9,
+      "semestre": "2022.1",
+      "nota": 4.0,
+      "comments": [
+        {
+          "text": "Faltou clareza nas explicações",
+          "type": "críticas"
+        },
+        {
+          "text": "Aulas mais interativas",
+          "type": "sugestões"
+        },
+        {
+          "text": "Incluir estudos de caso reais",
+          "type": "sugestões"
+        },
+        {
+          "text": "Adicionar vídeos explicativos",
+          "type": "sugestões"
+        },
+        {
+          "text": "Utilizar quizzes online",
+          "type": "sugestões"
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "professorId": 10,
+      "disciplinaId": 10,
+      "semestre": "2021.1",
+      "nota": 3.4,
+      "comments": [
+        {
+          "text": "Faltou clareza nas explicações",
+          "type": "críticas"
+        },
+        {
+          "text": "Pouca interação em sala",
+          "type": "críticas"
+        },
+        {
+          "text": "Adicionar vídeos explicativos",
+          "type": "sugestões"
+        },
+        {
+          "text": "Mais exemplos práticos",
+          "type": "sugestões"
+        },
+        {
+          "text": "Incluir estudos de caso reais",
+          "type": "sugestões"
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "professorId": 10,
+      "disciplinaId": 6,
+      "semestre": "2023.1",
+      "nota": 3.0,
+      "comments": [
+        {
+          "text": "Foco excessivo na teoria",
+          "type": "críticas"
+        },
+        {
+          "text": "Pouca interação em sala",
+          "type": "críticas"
+        },
+        {
+          "text": "Avaliou conteúdos não abordados",
+          "type": "críticas"
+        },
+        {
+          "text": "Incluir estudos de caso reais",
+          "type": "sugestões"
+        },
+        {
+          "text": "Utilizar quizzes online",
+          "type": "sugestões"
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "professorId": 10,
+      "disciplinaId": 5,
+      "semestre": "2021.1",
+      "nota": 4.6,
+      "comments": [
+        {
+          "text": "Material pouco didático",
+          "type": "críticas"
+        },
+        {
+          "text": "Foco excessivo na teoria",
+          "type": "críticas"
+        },
+        {
+          "text": "Faltou clareza nas explicações",
+          "type": "críticas"
+        },
+        {
+          "text": "Utilizar quizzes online",
+          "type": "sugestões"
+        },
+        {
+          "text": "Aulas mais interativas",
+          "type": "sugestões"
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "professorId": 10,
+      "disciplinaId": 2,
+      "semestre": "2021.1",
+      "nota": 4.0,
+      "comments": [
+        {
+          "text": "Faltou clareza nas explicações",
+          "type": "críticas"
+        },
+        {
+          "text": "Adicionar vídeos explicativos",
+          "type": "sugestões"
+        },
+        {
+          "text": "Incluir estudos de caso reais",
+          "type": "sugestões"
+        },
+        {
+          "text": "Mais exemplos práticos",
+          "type": "sugestões"
+        },
+        {
+          "text": "Utilizar quizzes online",
+          "type": "sugestões"
+        }
       ]
     }
   ]
